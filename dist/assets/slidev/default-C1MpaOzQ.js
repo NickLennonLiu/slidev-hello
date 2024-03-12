@@ -1,0 +1,1 @@
+import{o,b as s,f as t}from"../modules/vue-Be3bPvwD.js";import{_ as l}from"../index-DYMDTcPb.js";const r={},c={class:"slidev-layout default"};function d(e,a){return o(),s("div",c,[t(e.$slots,"default")])}const _=l(r,[["render",d],["__file","/Users/river/code/slidev/SlideV-周报-0312/node_modules/@slidev/client/layouts/default.vue"]]);export{_ as I};
